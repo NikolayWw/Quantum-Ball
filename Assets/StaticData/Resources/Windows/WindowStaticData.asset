@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2a0f653bfb992d48b072082ca601237, type: 3}
+  m_Name: WindowStaticData
+  m_EditorClassIdentifier: 
+  <UiRootPrefab>k__BackingField: {fileID: 5489003095381707259, guid: 31f1dabd1734f39439ed38b1b878ba19, type: 3}
+  <InputWindowPrefab>k__BackingField: {fileID: 480241049869097678, guid: b56eef321872d154abdd38f909b64968, type: 3}
+  <WinWindowPrefab>k__BackingField: {fileID: 7243339533902589214, guid: 5c394ebbc1d3a5d458933b4198bc7976, type: 3}
+  <LoseWindowPrefab>k__BackingField: {fileID: 5682792930266692817, guid: ea469477db192284b82c5fd1cf755922, type: 3}
+  <HUDPrefab>k__BackingField: {fileID: 81660392246513719, guid: 1aa89b99f0f240b4695e913ae4130052, type: 3}
